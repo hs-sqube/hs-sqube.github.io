@@ -1,4 +1,6 @@
 baseURL = "http://www.example.com"
+themesDir = "themes"
+publishDir = "docs"
 title = "Home"
 theme = "hugo-coder"
 languageCode = "en"
