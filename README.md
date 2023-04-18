@@ -9,3 +9,8 @@
 6. git push --set-upstream origin main
 7. git remote -v
 ```
+
+Change git remote url (once it has already been set)
+```
+git remote add origin <new remote SSH repo url>
+```
