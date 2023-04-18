@@ -140,13 +140,13 @@ author = "authors"
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = ""
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/company/s-qube/"
 
 #[[params.social]]
 #name = "Medium"
@@ -168,7 +168,7 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = ""
 
 #[[languages.en.menu.main]]
 #name = "Blog"
